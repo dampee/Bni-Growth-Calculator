@@ -1,3 +1,5 @@
+![github pages](https://github.com/dampee/Bni-Growth-Calculator/workflows/github%20pages/badge.svg?branch=master)
+
 # bni-growth-calculator
 
 ## Project setup
