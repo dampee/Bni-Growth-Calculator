@@ -1,6 +1,8 @@
 ![https://dampee.github.io/Bni-Growth-Calculator/](https://github.com/dampee/Bni-Growth-Calculator/workflows/github%20pages/badge.svg?branch=master)
 
-# bni-growth-calculator
+# bni growth calculator
+
+Hosted at https://dampee.github.io/Bni-Growth-Calculator/
 
 ## Project setup
 ```
@@ -21,6 +23,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
