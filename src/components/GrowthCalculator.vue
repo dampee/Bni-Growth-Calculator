@@ -20,8 +20,7 @@
                   label="Huidig aantal leden"
                   type="number"
                   required
-                ></v-text-field>
-      </td></tr>
+                ></v-text-field></td></tr>
       <tr><td>Doelstelling aantal leden</td><td></td><td> <v-text-field
                   v-model="targetmembers"
                   label="Gewenst aantal leden"
