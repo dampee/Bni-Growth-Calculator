@@ -3,7 +3,8 @@
     <v-row class="text-center">
       <v-col cols="12">
        <h3 class="display-2 font-weight-bold mb-3">Chapter groei</h3>      
-       <p>Hoeveel bezoekers heb je nodig als je je chapter wil laten groeien?</p>
+       <p>Hoeveel bezoekers heb je nodig als je je chapter wil laten groeien? <br/>
+       We hebben dit van <a href="https://www.linkedin.com/in/phberg/" target="_blank">Phil Berg</a> geleerd in oktober 2019.</p>
       </v-col>
 
       <v-col cols="12">
