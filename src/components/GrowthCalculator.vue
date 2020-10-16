@@ -85,7 +85,7 @@ td.result {
             return this.visitorsneeded / this.currentmembers;
           },
           visitorspermonthpermember : function() {
-            return this.visitorsneeded / this.months;
+            return this.visitorspermember / this.months;
           }
         },
   }
