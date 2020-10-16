@@ -12,9 +12,9 @@
     </v-app-bar>
 
     <v-content>
-      <Top10Traits />
-      <hr />
       <GrowthCalculator />
+      <hr />      
+      <Top10Traits />
     </v-content>
 
     <v-footer class="pa-3">
